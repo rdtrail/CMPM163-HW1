@@ -9,7 +9,7 @@
 ### I created a picture that sharpens as the mouse moves accross the screen.
 
 ## Homework 1C
-### I attempted to create the Game of Life rendered to a rotating box.
+### I attempted to create my own Game of Life with different alive and dead parameters.
 
 ## Homework 1D
 
